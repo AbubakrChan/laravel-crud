@@ -78,8 +78,9 @@
                                 @enderror
                             </div>
 
-                            <button type="submit" class="btn btn-md btn-primary">SIMPAN</button>
-                            <button type="reset" class="btn btn-md btn-warning">RESET</button>
+                            
+                            <button style="margin-left: 300px" type="submit" class="btn btn-md btn-primary">SIMPAN</button>
+                            <button type="reset" style="margin-right: 0px" class="btn btn-md btn-warning">RESET</button>
 
                         </form>
                     </div>
